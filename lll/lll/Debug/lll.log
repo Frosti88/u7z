@@ -1,0 +1,9 @@
+﻿  Fahrrad.cpp
+  Fahrzeug.cpp
+C:\Users\PC\source\repos\lll\lll\Fahrzeug.cpp(70,24): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+  Motorad.cpp
+  Pkw.cpp
+  Wohnmobil.cpp
+  main.cpp
+  Code wird generiert...
+  lll.vcxproj -> C:\Users\PC\source\repos\lll\Debug\lll.exe
